@@ -22,6 +22,14 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"staff"
+},
+      "clown":{ 
+         "name":"clown",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"clown"
+         
       }
    }
 }
