@@ -16,6 +16,13 @@
          "active":false,
          "resourceLocation":"Fortress_Black"
 },
+      "Fortress_Red":{ 
+         "name":"Fortress_Red",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"Fortress_Red"
+},
       "staff":{ 
          "name":"staff",
          "type":"cape",
