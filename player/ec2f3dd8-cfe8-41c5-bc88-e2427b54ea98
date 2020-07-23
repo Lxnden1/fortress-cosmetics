@@ -1,0 +1,13 @@
+{ 
+   "uuid":"ec2f3dd8-cfe8-41c5-bc88-e2427b54ea98",
+   "username":null,
+   "cosmetics":{ 
+      "Fortress_White":{ 
+         "name":"Fortress_White",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"Fortress_White"
+      }
+   }
+}
