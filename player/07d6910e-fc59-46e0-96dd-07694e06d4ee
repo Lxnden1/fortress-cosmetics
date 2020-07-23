@@ -15,6 +15,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"Fortress_Black"
+},
+      "staff":{ 
+         "name":"staff",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"staff"
       }
    }
 }
