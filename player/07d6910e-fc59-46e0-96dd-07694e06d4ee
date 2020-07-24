@@ -16,6 +16,20 @@
          "active":false,
          "resourceLocation":"Fortress_Black"
 },
+      "Fortress_Black_Cape":{ 
+         "name":"Fortress_Cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"Fortress_Black_Cape"
+},
+      "Fortress_White_Cape":{ 
+         "name":"Fortress_White_Cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"Fortress_White_Cape"
+},
       "Fortress_Red":{ 
          "name":"Fortress_Red",
          "type":"cape",
