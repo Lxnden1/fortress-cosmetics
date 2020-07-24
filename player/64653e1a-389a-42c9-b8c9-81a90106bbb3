@@ -8,18 +8,12 @@
          "scale":0.16,  
          "active":true,  
          "resourceLocation":"Fortress_Black_Cape"  
-      }  
-   }  
-}  
-{  
-   "uuid":"64653e1a-389a-42c9-b8c9-81a90106bbb3", 
-   "username":null,  
-   "cosmetics":{  
+},
       "Fortress_White_Cape":{  
          "name":"Fortress_White_Cape",  
          "type":"cape",  
          "scale":0.16,  
-         "active":true,  
+         "active":false,  
          "resourceLocation":"Fortress_White_Cape"  
       }  
    }  
