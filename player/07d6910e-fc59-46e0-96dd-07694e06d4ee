@@ -57,6 +57,83 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"arya"
+},
+      "corona_mask":{ 
+         "name":"corona_mask",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"corona_mask"
+},
+      "fox":{ 
+         "name":"fox",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"fox"
+},
+      "pancape":{ 
+         "name":"pancape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"pancape"
+},
+      "pasta":{ 
+         "name":"pasta",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"pasta"
+},
+      "pizza":{ 
+         "name":"pizza",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"pizza"
+},
+      "strafe":{ 
+         "name":"strafe",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"strafe"
+},
+      "strafe_2":{ 
+         "name":"strafe_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"strafe_2"
+},
+      "strafe2":{ 
+         "name":"strafe2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"strafe2"
+},
+      "twitch":{ 
+         "name":"twitch",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"twitch"
+},
+      "weather":{ 
+         "name":"weather",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"weather"
+},
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"youtube"
       }
    }
 }
