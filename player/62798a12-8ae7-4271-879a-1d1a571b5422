@@ -1,0 +1,13 @@
+{ 
+   "uuid":"62798a12-8ae7-4271-879a-1d1a571b5422",
+   "username":null,
+   "cosmetics":{ 
+      "Fortress_Black_Cape":{ 
+         "name":"Fortress_Black_Cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"Fortress_Black_Cape"
+      }
+   }
+}
