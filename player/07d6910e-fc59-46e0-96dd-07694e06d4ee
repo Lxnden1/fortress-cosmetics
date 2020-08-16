@@ -134,6 +134,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"youtube"
+},
+      ".cape":{ 
+         "name":".cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":".cape"
       }
    }
 }
