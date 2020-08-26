@@ -35,7 +35,14 @@
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"Fortress_Red"
+         "resourceLocation":"Fortress_Red" 
+},
+      "Fortress_Cape":{ 
+         "name":"Fortress_Cape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"Fortress_Cape"
 },
       "staff":{ 
          "name":"staff",
