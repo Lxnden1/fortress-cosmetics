@@ -149,13 +149,6 @@
          "active":false,
          "resourceLocation":".cape"
 },
-      "KFC":{ 
-         "name":"KFC",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"KFC"
-},
       "fortress_builder":{ 
          "name":"fortress_builder",
          "type":"cape",
