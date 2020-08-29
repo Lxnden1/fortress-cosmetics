@@ -149,6 +149,13 @@
          "active":false,
          "resourceLocation":".cape"
 },
+      "fortress_builder":{ 
+         "name":"fortress_builder",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"fortress_builder"
+},
       "fortress_1":{ 
          "name":"fortress_1",
          "type":"cape",
