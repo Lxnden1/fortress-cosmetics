@@ -190,6 +190,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"fortress_4"
+},
+      "fortress_5":{ 
+         "name":"fortress_5",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"fortress_5"
       }
    }
 }
