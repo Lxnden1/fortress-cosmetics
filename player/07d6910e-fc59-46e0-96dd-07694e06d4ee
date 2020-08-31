@@ -204,6 +204,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"fortress_5"
+},
+      "christmas":{ 
+         "name":"christmas",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"christmas"
       }
    }
 }
