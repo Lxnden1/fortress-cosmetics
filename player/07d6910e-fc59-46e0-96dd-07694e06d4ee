@@ -211,6 +211,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"christmas"
+},
+      "valentine_cape_4":{ 
+         "name":"valentine_cape_4",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"valentine_cape_4"
       }
    }
 }
