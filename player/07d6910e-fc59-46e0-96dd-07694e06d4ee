@@ -51,6 +51,13 @@
          "active":false,
          "resourceLocation":"staff"
 },
+      "ac":{ 
+         "name":"ac",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"ac"
+},
       "clown":{ 
          "name":"clown",
          "type":"cape",
