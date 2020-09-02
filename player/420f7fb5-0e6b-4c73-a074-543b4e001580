@@ -8,6 +8,34 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"fortress_1"
+},
+      "fortress_2":{ 
+         "name":"fortress_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"fortress_2"
+},
+      "fortress_3":{ 
+         "name":"fortress_3",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"fortress_3"
+},
+      "fortress_4":{ 
+         "name":"fortress_4",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"fortress_4"
+},
+      "fortress_5":{ 
+         "name":"fortress_5",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"fortress_5"
       }
    }
 }
