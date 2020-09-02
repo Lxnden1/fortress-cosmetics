@@ -2,12 +2,12 @@
    "uuid":"420f7fb5-0e6b-4c73-a074-543b4e001580",
    "username":null,
    "cosmetics":{ 
-      "Fortress_1":{ 
-         "name":"Fortress_1",
+      "fortress_1":{ 
+         "name":"fortress_1",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"Fortress_1"
+         "resourceLocation":"fortress_1"
       }
    }
 }
